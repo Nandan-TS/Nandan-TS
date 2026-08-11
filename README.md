@@ -2,6 +2,8 @@
 
 ### 💻 Computer Science Engineering Student | Developer | Tech Enthusiast
 
+![Profile Views](https://komarev.com/ghpvc/?username=Nandan-TS&label=Profile%20Views&color=0e75b6&style=for-the-badge)
+
 I'm a Computer Science Engineering student passionate about building
 practical software solutions, exploring new technologies, and continuously
 improving my development skills.
